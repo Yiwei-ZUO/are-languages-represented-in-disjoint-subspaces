@@ -5,7 +5,7 @@ This repository contains the Jupyter notebook for Part 2 of the Multilingual NLP
 ## Contents
 
 - `m2_lab2_zuo_code.ipynb`: code, experiments, results, and answers for Part 2 (Questions 14–53) and the Synthesis (Questions 77–80)
-- `representations/`: cached mBERT sentence representations for the six languages and two data splits
+- `representations/`: generated automatically by Question 14 to store the cached mBERT sentence representations
 
 The experiments cover:
 
